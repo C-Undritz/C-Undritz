@@ -31,9 +31,9 @@
 <br />
 <br />
 ### GitHub Activity:
-[![C-Undritz GitHub stats](https://github-readme-stats.vercel.app/api?username=C-Undritz)](https://github.com/C-Undritz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C-Undritz&layout=compact&hide=Dockerfile,Shell)](https://github.com/C-Undritz/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C-Undritz&layout=compact)](https://github.com/C-Undritz/github-readme-stats)
+[![C-Undritz GitHub stats](https://github-readme-stats.vercel.app/api?username=C-Undritz)](https://github.com/C-Undritz/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=C-Undritz" alt="bak2k3" /></p>
 <!-- 
