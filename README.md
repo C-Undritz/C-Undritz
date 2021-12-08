@@ -34,7 +34,12 @@
 [![C-Undritz GitHub stats](https://github-readme-stats.vercel.app/api?username=C-Undritz)](https://github.com/C-Undritz/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C-Undritz&layout=compact)](https://github.com/C-Undritz/github-readme-stats)
-<!-- GitHub stats created using: https://github.com/anuraghazra/github-readme-stats  -->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=C-Undritz" alt="bak2k3" /></p>
+<!-- 
+GitHub stats created using: https://github.com/anuraghazra/github-readme-stats  
+https://dev.to/charalambosioannou/create-a-dynamic-github-profile-readme-il5
+-->
 
 [linkedin]: https://www.linkedin.com/in/christopher-undritz/
 [HTML5]: https://html.spec.whatwg.org/multipage/
