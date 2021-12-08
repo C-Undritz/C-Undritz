@@ -34,6 +34,7 @@
 [![C-Undritz GitHub stats](https://github-readme-stats.vercel.app/api?username=C-Undritz)](https://github.com/C-Undritz/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C-Undritz&layout=compact)](https://github.com/C-Undritz/github-readme-stats)
+<!-- GitHub stats created using: https://github.com/anuraghazra/github-readme-stats  -->
 
 [linkedin]: https://www.linkedin.com/in/christopher-undritz/
 [HTML5]: https://html.spec.whatwg.org/multipage/
