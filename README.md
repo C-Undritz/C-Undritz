@@ -35,7 +35,7 @@
 
 [![C-Undritz GitHub stats](https://github-readme-stats.vercel.app/api?username=C-Undritz)](https://github.com/C-Undritz/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=C-Undritz" alt="bak2k3" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=C-Undritz" alt="C-Undritz" /></p>
 <!-- 
 GitHub stats created using: https://github.com/anuraghazra/github-readme-stats  
 https://dev.to/charalambosioannou/create-a-dynamic-github-profile-readme-il5
