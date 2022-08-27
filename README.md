@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently workig in a software support role at [Aggora](https://aggora.co.uk/)
 - :man_student: I recently graduated with Distinction from the Code Institute Full Stack Software Diploma.
-- 🌱 I’m currently learning React and improving my automated testing knowledge and JavaScript skills :fist_left:
+- 🌱 I’m currently learning React and PHP and improving my Python and JavaScript skills :fist_left:
 - 📫 You can reach me on undritz.cu@gmail.com
 
 
